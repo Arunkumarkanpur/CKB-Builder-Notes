@@ -41,3 +41,8 @@
 *(Attach screenshots or terminal outputs as evidence of your completed work)*  
 
 <img src="../assets/C:\Users\Screenshot 2025-10-14 223248.png" alt="Capacity of a Cell" width="100%">
+---
+<img src="../assets/C:\Users\Screenshot 2025-10-14 224730.png" alt="Capacity of a Cell" width="100%">
+---
+<img src="../assets/C:\Users\Screenshot 2025-10-14 230453.png" alt="Capacity of a Cell" width="100%">
+
