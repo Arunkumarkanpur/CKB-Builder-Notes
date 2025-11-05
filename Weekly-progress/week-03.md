@@ -40,7 +40,4 @@
 
 *(Attach screenshots or terminal outputs as evidence of your completed work)*  
 
-```markdown
-![CKB Transfer Proof](https://example.com/transfer-screenshot.png)
-![Data Storage Proof](https://example.com/store-cell-screenshot.png)
-![Token Creation Proof](https://example.com/create-token-screenshot.png)
+<img src="../assets/C:\Users\Screenshot 2025-10-14 223248.png" alt="Capacity of a Cell" width="100%">
