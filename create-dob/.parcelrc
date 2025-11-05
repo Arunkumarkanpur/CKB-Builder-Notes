@@ -1,0 +1,18 @@
+{
+  "extends": "@parcel/config-default",
+  "resolvers": ["@parcel/resolver-default"],
+  "transformers": {},
+  "bundler": "@parcel/bundler-default",
+  "namers": ["@parcel/namer-default"],
+  "runtimes": [],
+  "packagers": {},
+  "optimizers": {},
+  "reporters": ["@parcel/reporter-default"],
+  "alias": {
+    "crypto": "crypto-browserify",
+    "stream": "stream-browserify",
+    "buffer": "buffer",
+    "process": "process",
+    "path": "path-browserify"
+  }
+}
